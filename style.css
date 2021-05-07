@@ -1,0 +1,187 @@
+body {
+	background-image:url(images/Head/3.png);
+}
+span {
+	padding-left: 20px;
+}
+a { text-decoration: none; color: #16a62e; 
+}
+a:hover { text-decoration: underline; 
+}
+table {
+	text-align: center;
+	font-size: 20px;
+	border: 3px solid #16a62e;
+	color: #16a62e;
+}
+p {font-size: 16px;
+	
+}
+.zagolovok {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: center;
+	font-size: 100px;
+	opacity: 0.9;
+	border-radius:50px;
+	height: 170;
+}
+
+.menu {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: center;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height: 30;
+}
+.podmenu {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: center;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height: 30;
+}
+.scada {color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height: 1000;	
+}
+.about {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height: 1200;
+}
+.history {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height: 1000;	
+}
+.features {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:2100;	
+}
+.comparison {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 50px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:1000;
+}
+.integration {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:2800;
+}
+.avtor {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:300;
+}
+.dis {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:300;
+}
+.varik {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:1100;
+}
+.setup {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:7600;
+}
+.Laba {
+	color: #16a62e;
+	background-color:white;
+	border: 7px solid #16a62e;
+	padding: 10px;
+	margin: 30px;
+	text-align: justify;
+	font-size: 20px;
+	opacity: 0.9;
+	border-radius:40px;
+	height:56900;
+}
